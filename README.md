@@ -85,3 +85,5 @@ A full-stack task management application with authentication, project management
 ### Dashboard
 - `GET /api/dashboard/stats`: Get dashboard statistics
 
+djrabadiya2910_db_user
+BFSTi6Jftu2Qc3uz
