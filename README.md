@@ -4,7 +4,7 @@ A full-stack task management application with authentication, project management
 
 ## Features
 
-- **Authentication**: Secure Login and Registration using JWT and HTTP-only cookies (or local storage for this demo).
+- **Authentication**: Secure Login and Registration using JWT and HTTP-only cookies.
 - **Dashboard**: Overview of project and task statistics.
 - **Projects**: Create and manage projects.
 - **Tasks**: Add tasks to projects with priorities (High, Medium, Low) and statuses (Todo, In Progress, Done).
@@ -19,7 +19,7 @@ A full-stack task management application with authentication, project management
 
 ### Prerequisites
 - Node.js installed.
-- MongoDB installed and running locally, or a MongoDB Atlas URI.
+- MongoDB installed and running locally.
 
 ### Backend Setup
 1. Navigate to the `server` directory:
